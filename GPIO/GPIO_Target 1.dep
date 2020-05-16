@@ -1,9 +1,0 @@
-Dependencies for Project 'GPIO', Target 'Target 1': (DO NOT MODIFY !)
-F (.\startup_TM4C123.s)(0x532C4792)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -ID:\Keil\EE319Kware-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
-F (.\GPIO.c)(0x5EBE8652)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
-I (GPIO.h)(0x5EBE65BB)
-I (common_macros.h)(0x5E5FB1B5)
-I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
-I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
-I (D:\Keil\EE319Kware\inc\tm4c123gh6pm.h)(0x5EBE6356)
-I (D:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
